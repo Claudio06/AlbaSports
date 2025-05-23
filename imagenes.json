@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "nombre": "Cempera WhaterProof",
+      "imagen": "/Imagenes/Whater.webp",
+      "descripcion": "Campera imperniable de alta calidad, ideal para climas lluviosos y fríos."
+    },
+    {
+      "id": 2,
+      "nombre": "Campera Rompevientos",
+      "imagen": "/Imagenes/Wind.webp" ,
+      "descripcion": "Campera liviana y resistente al viento, perfecta para actividades al aire libre."
+    },
+    {
+      "id": 3,
+      "nombre": "Campera Reflex",
+      "imagen": "/Imagenes/Camperaflex.webp",
+      "descripcion": "Campera elastizada ideal para deportes extremos, con detalles reflectantes para mayor seguridad."
+    },
+    {
+      "id": 4,
+      "nombre": "Campera Reflex",
+      "imagen": "/Imagenes/Camperaflex2.webp",
+      "descripcion": "Campera elastizada ideal para deportes extremos, con detalles reflectantes para mayor seguridad."
+    },
+    {
+      "id": 5,
+      "nombre": "Pantalon Ultra",
+      "imagen": "/Imagenes/Pantalonultra.webp",
+      "descripcion": "Pantalón elástico y cómodo, perfecto para hacer yoga o cualquier actividad física."
+    },
+    {
+      "id": 6,
+      "nombre": "Pantalon Run",
+      "imagen": "/Imagenes/PantalonRun.webp",
+      "descripcion": "Pantalon de microfibra con elasteno ideal para todo tipo de deportes"
+    },
+    {
+      "id": 7,
+      "nombre": "Pantalon Run",
+      "imagen": "/Imagenes/PantalonRun1.webp",
+      "descripcion": "Pantalon de lycra y elasteno"
+    },
+    {
+      "id": 8,
+      "nombre": "Pantalon Luxury 5.0",
+      "imagen": "/Imagenes/luxury.webp",
+      "descripcion": "Pantalon de microfibra "
+    },
+    {
+      "id": 9,
+      "nombre": "Pantalon Luxury 5.0",
+      "imagen": "/Imagenes/luxury1.webp",
+      "descripcion": "Pantalon de microfibra "
+    },
+    {
+      "id": 10,
+      "nombre": "Buzo Over-Polar",
+      "imagen": "/Imagenes/BuzoPolar1.webp",
+      "descripcion": "Buzo Polar Oversize"
+    },
+    {
+      "id": 11,
+      "nombre": "Botines Over-Polar",
+      "imagen": "/Imagenes/BuzoPolar2.webp",
+      "descripcion": "Buzo Polar Oversize"
+    },
+    {
+      "id": 12,
+      "nombre": "Buzo Cotton 2.0",
+      "imagen": "/Imagenes/BuzoAlgodon.webp",
+      "descripcion": "Buzo de algodon."
+    },
+    {
+      "id": 13,
+      "nombre": "Pantalón de Vestir",
+      "imagen": "https://www.ejemplo.com/imagenes/pantalon-vestir.jpg",
+      "descripcion": "Pantalón de vestir de corte recto, ideal para eventos formales y de negocios."
+    },
+    {
+      "id": 14,
+      "nombre": "Camiseta Deportiva",
+      "imagen": "https://www.ejemplo.com/imagenes/camiseta-deportiva.jpg",
+      "descripcion": "Camiseta deportiva de tejido transpirable, perfecta para hacer ejercicio."
+    },
+    {
+      "id": 15,
+      "nombre": "Chaqueta de Plumas",
+      "imagen": "https://www.ejemplo.com/imagenes/chaqueta-plumas.jpg",
+      "descripcion": "Chaqueta de plumas ultraligera, ideal para protegerte del frío sin sacrificar estilo."
+    },
+    {
+      "id": 16,
+      "nombre": "Pantalón de Yoga",
+      "imagen": "https://www.ejemplo.com/imagenes/pantalon-yoga.jpg",
+      "descripcion": "Pantalón elástico y cómodo, perfecto para hacer yoga o cualquier actividad física."
+    },
+    {
+      "id": 17,
+      "nombre": "Túnica de Algodón",
+      "imagen": "https://www.ejemplo.com/imagenes/tunica-algodon.jpg",
+      "descripcion": "Túnica ligera de algodón, ideal para un look relajado y fresco."
+    },
+    {
+      "id": 18,
+      "nombre": "Chaleco de Punto",
+      "imagen": "https://www.ejemplo.com/imagenes/chaleco-punto.jpg",
+      "descripcion": "Chaleco de punto suave, perfecto para el entretiempo o para añadir una capa extra a tu look."
+    },
+    {
+      "id": 19,
+      "nombre": "Zapatillas Deportivas",
+      "imagen": "https://www.ejemplo.com/imagenes/zapatillas-deportivas.jpg",
+      "descripcion": "Zapatillas deportivas cómodas, perfectas para hacer ejercicio o para el día a día."
+    },
+    {
+      "id": 20,
+      "nombre": "Abrigo de Lana",
+      "imagen": "https://www.ejemplo.com/imagenes/abrigo-lana.jpg",
+      "descripcion": "Abrigo largo de lana, elegante y perfecto para el invierno."
+    }
+  ]
+  
