@@ -2,55 +2,55 @@
     {
       "id": 1,
       "nombre": "Cempera WhaterProof",
-      "imagen": "/Imagenes/Whater.webp",
+      "imagen": "./Imagenes/Whater.webp",
       "descripcion": "Campera imperniable de alta calidad, ideal para climas lluviosos y fríos."
     },
     {
       "id": 2,
       "nombre": "Campera Rompevientos",
-      "imagen": "/Imagenes/Wind.webp" ,
+      "imagen": "./Imagenes/Wind.webp" ,
       "descripcion": "Campera liviana y resistente al viento, perfecta para actividades al aire libre."
     },
     {
       "id": 3,
       "nombre": "Campera Reflex",
-      "imagen": "/Imagenes/Camperaflex.webp",
+      "imagen": "./Imagenes/Camperaflex.webp",
       "descripcion": "Campera elastizada ideal para deportes extremos, con detalles reflectantes para mayor seguridad."
     },
     {
       "id": 4,
       "nombre": "Campera Reflex",
-      "imagen": "/Imagenes/Camperaflex2.webp",
+      "imagen": "./Imagenes/Camperaflex2.webp",
       "descripcion": "Campera elastizada ideal para deportes extremos, con detalles reflectantes para mayor seguridad."
     },
     {
       "id": 5,
       "nombre": "Pantalon Ultra",
-      "imagen": "/Imagenes/Pantalonultra.webp",
+      "imagen": "./Imagenes/Pantalonultra.webp",
       "descripcion": "Pantalón elástico y cómodo, perfecto para hacer yoga o cualquier actividad física."
     },
     {
       "id": 6,
       "nombre": "Pantalon Run",
-      "imagen": "/Imagenes/PantalonRun.webp",
+      "imagen": "./Imagenes/PantalonRun.webp",
       "descripcion": "Pantalon de microfibra con elasteno ideal para todo tipo de deportes"
     },
     {
       "id": 7,
       "nombre": "Pantalon Run",
-      "imagen": "/Imagenes/PantalonRun1.webp",
+      "imagen": "./Imagenes/PantalonRun1.webp",
       "descripcion": "Pantalon de lycra y elasteno"
     },
     {
       "id": 8,
       "nombre": "Pantalon Luxury 5.0",
-      "imagen": "/Imagenes/luxury.webp",
+      "imagen": "./Imagenes/luxury.webp",
       "descripcion": "Pantalon de microfibra "
     },
     {
       "id": 9,
       "nombre": "Pantalon Luxury 5.0",
-      "imagen": "/Imagenes/luxury1.webp",
+      "imagen": "./Imagenes/luxury1.webp",
       "descripcion": "Pantalon de microfibra "
     },
     {
@@ -68,7 +68,7 @@
     {
       "id": 12,
       "nombre": "Buzo Cotton 2.0",
-      "imagen": "/Imagenes/BuzoAlgodon.webp",
+      "imagen": "./Imagenes/BuzoAlgodon.webp",
       "descripcion": "Buzo de algodon."
     },
     {
@@ -120,4 +120,3 @@
       "descripcion": "Abrigo largo de lana, elegante y perfecto para el invierno."
     }
   ]
-  
