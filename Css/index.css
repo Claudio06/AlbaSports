@@ -10,8 +10,8 @@
 }
 @font-face {
     font-family: 'Montserrat';
-    src: url('/fuentes/Montserrat-Italic-VariableFont_wght.ttf') format('woff'),
-    url('/fuentes/Montserrat-VariableFont_wght.ttf') format('woff2');
+    src: url('../fuentes/Montserrat-Italic-VariableFont_wght.ttf') format('woff'),
+    ('../fuentes/Montserrat-VariableFont_wght.ttf') format('woff2');
 }
 
 *{
