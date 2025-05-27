@@ -4,7 +4,7 @@ const d  = document;
 d.addEventListener('DOMContentLoaded' , ()=>{
 nave(),
 nosotros(),
-letter(),
+// letter(),
 galeria(),
 btntop()
 
@@ -66,13 +66,13 @@ const nosotros = ()=>{
   
 }
 
-const letter = ()=>{
-  const typed = new Typed('.strong', {
-    strings: ["alto rendimiento", "conford" , "durabilidad", "diseño moderno" , "alto rendimiento"],
-    typeSpeed: 40
-  });
+// const letter = ()=>{
+//   const typed = new Typed('.strong', {
+//     strings: ["alto rendimiento", "conford" , "durabilidad", "diseño moderno" , "alto rendimiento"],
+//     typeSpeed: 40
+//   });
 
-}
+// }
 
 arrowBottom = () => {
   const arrow = document.getElementById('scroll');
@@ -83,19 +83,22 @@ arrowBottom = () => {
 }
 
 const galeria = ()=>{
-  const swiper1= d.querySelector('.swiper-wrapper')
+  const swiper1= d.querySelector('#galeria')
+  swiper1.insertAdjacentHTML('beforebegin' , `<h2 class="title_galeria">Las mas pedidas</h2>
+`);
  
  const fotos = fetch("imagenes.json").then((res) => res.json()).then((data) => {
   
  data.forEach((foto)=>{
-swiper1.innerHTML += `<div class="swiper-slide">
-          <div class="product-card">
-          <img src="${foto.imagen}"/>
-          <h3 style="z-index:2">${foto.nombre}</h3>
+swiper1.innerHTML += `
+          <figure class="product-card">
+          <img src="${foto.imagen}" alt="${foto.nombre}"/>
+          <figcaption">${foto.nombre}</figcaption>
         <p>${foto.descripcion}</p>
-      </div>`
+      </figure>`
 
  })
+ 
 
 }
   )}
