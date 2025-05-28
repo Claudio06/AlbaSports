@@ -74,13 +74,7 @@ const nosotros = ()=>{
 
 // }
 
-arrowBottom = () => {
-  const arrow = document.getElementById('scroll');
-  const section = document.getElementById('contacto');
-  arrow.addEventListener('click' , () => {
-    section.scrollIntoView({ behavior: 'smooth', duration: '0.2s' });
-  });
-}
+
 
 const galeria = ()=>{
   const swiper1= d.querySelector('#galeria')
