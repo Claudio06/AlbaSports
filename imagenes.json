@@ -61,8 +61,8 @@
     },
     {
       "id": 11,
-      "nombre": "Botines Over-Polar",
-      "imagen": "/Imagenes/BuzoPolar2.webp",
+      "nombre": "Buzo Over-Polar",
+      "imagen": "./Imagenes/BuzoPolar2.webp",
       "descripcion": "Buzo Polar Oversize"
     },
     {
