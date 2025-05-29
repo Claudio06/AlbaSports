@@ -73,45 +73,47 @@
     },
     {
       "id": 13,
-      "nombre": "Pantalón de Vestir",
-      "imagen": "https://www.ejemplo.com/imagenes/pantalon-vestir.jpg",
-      "descripcion": "Pantalón de vestir de corte recto, ideal para eventos formales y de negocios."
+      "nombre": "Campera Weekend",
+      "imagen": "./Imagenes/CamperaWeedkend.webp",
+      "descripcion": "Campera Polar"
     },
     {
       "id": 14,
-      "nombre": "Camiseta Deportiva",
-      "imagen": "https://www.ejemplo.com/imagenes/camiseta-deportiva.jpg",
-      "descripcion": "Camiseta deportiva de tejido transpirable, perfecta para hacer ejercicio."
+      "nombre": "Campera Weekend",
+      "imagen": "./Imagenes/CamperaWeekend.webp",
+      "descripcion": "Campera Polar"
+      
     },
     {
       "id": 15,
-      "nombre": "Chaqueta de Plumas",
-      "imagen": "https://www.ejemplo.com/imagenes/chaqueta-plumas.jpg",
-      "descripcion": "Chaqueta de plumas ultraligera, ideal para protegerte del frío sin sacrificar estilo."
+      "nombre": "Chaqueta de Microfibra",
+      "imagen": "./Imagenes/CamperaUmlimit.webp",
+      "descripcion": "Campera De Microfibra, media estacion"
     },
     {
       "id": 16,
-      "nombre": "Pantalón de Yoga",
-      "imagen": "https://www.ejemplo.com/imagenes/pantalon-yoga.jpg",
-      "descripcion": "Pantalón elástico y cómodo, perfecto para hacer yoga o cualquier actividad física."
+      "nombre": "Pantalón Rex",
+      "imagen": "./Imagenes/PantalonRex.webp",
+      "descripcion": "Pantalón Lycra, detalles unicos"
     },
     {
       "id": 17,
-      "nombre": "Túnica de Algodón",
-      "imagen": "https://www.ejemplo.com/imagenes/tunica-algodon.jpg",
-      "descripcion": "Túnica ligera de algodón, ideal para un look relajado y fresco."
+      "nombre": "Pantalon Silver",
+      "imagen": "./Imagenes/PantalonSilver.webp",
+      "descripcion": "Pantalon Lycra, detalles unicos"
     },
     {
       "id": 18,
-      "nombre": "Chaleco de Punto",
-      "imagen": "https://www.ejemplo.com/imagenes/chaleco-punto.jpg",
-      "descripcion": "Chaleco de punto suave, perfecto para el entretiempo o para añadir una capa extra a tu look."
+      "nombre": "Pantalón Rex",
+      "imagen": "./Imagenes/PantalonRex1.webp",
+      "descripcion": "Pantalón Lycra, detalles unicos"
+      
     },
     {
       "id": 19,
-      "nombre": "Zapatillas Deportivas",
-      "imagen": "https://www.ejemplo.com/imagenes/zapatillas-deportivas.jpg",
-      "descripcion": "Zapatillas deportivas cómodas, perfectas para hacer ejercicio o para el día a día."
+      "nombre": "Pantalon Silver",
+      "imagen": "./Imagenes/PantalonSilver1.webp",
+      "descripcion": "Pantalon Lycra, detalles unicos"
     },
     {
       "id": 20,

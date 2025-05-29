@@ -240,6 +240,7 @@ strong {
   border-radius: 16px;
   width: 100%;
   height: auto;
+  aspect-ratio:  auto;
 }
 .product-card p {
   padding: 1em;
