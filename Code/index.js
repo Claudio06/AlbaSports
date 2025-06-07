@@ -91,7 +91,7 @@ swiper1.innerHTML +=`
   data-caption="${foto.nombre}"
 >
 <figure class="product-card" data-aos="fade-up">
-<img  src="${foto.imagen}" width="250 height="200" alt="${foto.nombre}"/>
+<img  src="${foto.imagen}" width="250px" height="200px" alt="${foto.nombre}"/>
 
 </a>`
 
