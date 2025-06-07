@@ -84,12 +84,25 @@ const galeria = ()=>{
  const fotos = fetch("imagenes.json").then((res) => res.json()).then((data) => {
   
  data.forEach((foto)=>{
-swiper1.innerHTML += `
-          <figure class="product-card">
-          <img src="${foto.imagen}" alt="${foto.nombre}"/>
-          <figcaption">${foto.nombre}</figcaption>
-        <p>${foto.descripcion}</p>
-      </figure>`
+swiper1.innerHTML +=`
+<a
+  data-fancybox="gallery"
+  data-src="${foto.imagen}"
+  data-caption="${foto.nombre}"
+>
+<figure class="product-card" data-aos="fade-up">
+<img  src="${foto.imagen}" width="250 height="200" alt="${foto.nombre}"/>
+
+</a>`
+
+
+/* <figure class="product-card" data-aos="fade-up">
+//      <img src="${foto.imagen}" alt="${foto.nombre}"/>
+//    <figcaption">${foto.nombre}</figcaption>
+//    <p>${foto.descripcion}</p>
+//  </figure> */
+ 
+ 
 
  })
  

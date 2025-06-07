@@ -21,16 +21,16 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  scroll-behavior: smooth;
   font-family: "Montserrat";
-}
+  
+} 
 a {
   text-decoration: none;
   color: var(--eggshell);
   font-size: 1.1em;
   font-weight: 300;
 }
-a::after {
+/* a::after {
   content: "";
   display: block;
   width: 0%;
@@ -43,7 +43,7 @@ a:hover::after {
 }
 a:not(.imagen_hero):hover{
 width:0%;
-}
+} */
 button {
   border: none;
   border-radius: 16px;
@@ -267,7 +267,7 @@ figcaption:hover {
 .product-card img:hover {
   transform: scale(1.05);
   cursor: pointer;
-}
+} 
 /* =================seccion acesso a la tienda =================================00 */
 
 .acciontienda {
@@ -636,9 +636,13 @@ div {
     width: 100%;
   }
   .product-card {
-    flex: 1 1 180px;
+    flex: 1 0 300px;
     margin:  auto 0.5em
-  } 
+  } .product-card img{
+    max-width: 80%;
+  height: auto;
+  object-fit: content;
+  }
 
   /* =============nosotros responsive=========== */
   .sobre-container h2 {
@@ -724,7 +728,7 @@ div {
   .redesfooter {
     flex-direction: row;
     align-items: center;
-    justify-content: end;
+    justify-content:center;
     padding: 1em;
     width: 100%;
     margin: auto 1em auto auto;
